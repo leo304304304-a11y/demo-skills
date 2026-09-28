@@ -1,0 +1,6 @@
+{
+  "max_column_length": 64,
+  "allowed_types": ["string", "integer", "float", "boolean", "datetime"],
+  "null_values": ["", "NA", "N/A", "null", "None", "-"],
+  "trim_whitespace": true
+}
