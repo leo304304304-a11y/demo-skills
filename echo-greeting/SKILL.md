@@ -13,3 +13,4 @@ Skill providing standardized greeting messages and executive announcements for c
 When a user asks for a welcome message or formal greeting:
 1. Consult `references/templates.md` for the appropriate tone.
 2. Adapt the greeting to the user role and language.
+3. Test
