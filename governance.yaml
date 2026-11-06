@@ -1,10 +1,9 @@
-# Socle d'entreprise commun - valeurs par defaut (PR 709)
 scope: global
 domain: it4it
 skill_type: Project
 owner_group: DATA-GCP-BTAP_DEV@loreal.com
 confidentiality: C2
-personal_data: Aucun
+personal_data: None
 tags:
   - enterprise-skills
   - agentic-platform
