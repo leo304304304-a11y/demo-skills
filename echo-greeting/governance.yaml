@@ -1,0 +1,11 @@
+# Surcharge pour skill personnel
+skill_type: Personal
+confidentiality: C1
+personal_data: Aucun
+tags:
+  - greeting
+  - announcements
+  - personal-assistant
+recommended_for:
+  - Business Users
+  - Conversational Agents

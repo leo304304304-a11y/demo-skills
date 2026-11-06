@@ -1,0 +1,11 @@
+# Surcharge pour skill projet avec donnees personnelles P1
+personal_data: P1
+tags:
+  - data-cleaning
+  - dataset-prep
+  - data-quality
+  - sanitization
+recommended_for:
+  - Data Scientists
+  - Data Engineers
+  - Analytics Engineers

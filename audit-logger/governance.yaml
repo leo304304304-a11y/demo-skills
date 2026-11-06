@@ -1,0 +1,15 @@
+# Surcharge pour skill business critique avec domaine legal et confidentialite C3
+domain: legal
+skill_type: Business
+confidentiality: C3
+personal_data: Aucun
+owner_group: LEGAL-TECH-COMPLIANCE@loreal.com
+tags:
+  - compliance
+  - audit-trail
+  - soc2
+  - security-audit
+recommended_for:
+  - Compliance Officers
+  - Enterprise Auditors
+  - Security Engineers
