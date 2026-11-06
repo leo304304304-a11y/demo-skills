@@ -1,7 +1,8 @@
 scope: global
 domain: it4it
+function: test-pipeline-github
 skill_type: Project
-owner_group: DATA-GCP-BTAP_DEV@loreal.com
+owner_group: Alorsbonçaonsaitpasencore
 confidentiality: C2
 personal_data: None
 tags:
