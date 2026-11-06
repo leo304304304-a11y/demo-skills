@@ -1,7 +1,7 @@
 # Surcharge pour skill personnel
 skill_type: Personal
 confidentiality: C1
-personal_data: Aucun
+personal_data: None
 tags:
   - greeting
   - announcements
